@@ -13,7 +13,7 @@ Input is one of:<br>
 </ul><br>
 <b>Simple test:</b><br>
 <code>java -jar snp.jar c qwerty12345 | java -jar snp.jar x</code>
-<br>
+<br><br>
 <b>Compile:</b><br>
 <ul>
 <li>setup <a href="https://maven.apache.org/">Maven</a></li>
